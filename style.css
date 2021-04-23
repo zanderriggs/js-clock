@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    font-size:36px;
+}
+
+body {
+    background-color: azure;
+}
+
+#clock{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 110px;
+    text-align:center;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
